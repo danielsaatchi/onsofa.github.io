@@ -1,0 +1,17 @@
+<head>
+  <title>Think</title>
+</head>
+<body>
+  <header>
+    <h1>Think</h1>
+  </header>
+
+  <main>
+    <p>This is the main content of your website.</p>
+    <p>You can add more content here.</p>
+  </main>
+
+  <footer>
+    <p>Copyright 2023</p>
+  </footer>
+</body>
