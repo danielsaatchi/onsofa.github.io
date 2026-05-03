@@ -36,17 +36,21 @@
   <main>
     <p>ONSOFA Studio [4] Artificial Intelligence</p>
     <p>Working on New AI Developments with Different Lens</p>
-    <h2>Research Areas</h2>
+    <h2>Research Area</h2>
     <ul>
       <li>Artificial Intelligence</li>
-      <li>NLP & LLM Developments</li>
+      <li>Benchmarking of NLP & LLM Developments</li>
       <li>AI Systems Designs and AI Agents</li>
-      <li>AI in Financial Engineering</li>
-      <li>AI Ethics</li>
+      <li>AI in Financial Engineering </li>
+      <li>AI Ethics & Ethical-Hacking AI Agents</li>
       <li>AI-Chips and Metamaterials Informatics</li>
       <li>Neuromorphic Brain Interface Metamaterials</li>
       <li>Sonic Intelligence and Transponder AI Systems</li>
       <li>Mechanical Intelligence & Mechanical Computers</li>
+      <li>AI-in-Design & Computational Design </li>
+      <li>Data-Driven Concept Technology Design</li>
+
+
     </ul>
   </main>
   <div class="Facilities">
@@ -73,11 +77,20 @@
   <div class="Publications">
     <h2>Publications:</h2>
     <ul>  
-       <li>(2025)  <strong style="color: blue;">Daniel Saatchi</strong>, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh, 
+       <li>(2025)  <strong style="color: orange;">Daniel Saatchi</strong>, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh, 
         <strong style="font-style: italic;">"Artificial Intelligence in Metamaterial Informatics for Sonic Frequency Mechanical Identification Tags”</strong>, 
             Advanced Functional Materials, AI-discovery, SFID AI-chip Invention, 
             <a href="https://doi.org/10.1002/adfm.202414670" target="_blank">https://doi.org/10.1002/adfm.202414670</a>
                 </strong></li>
+       <li>(2025)  <strong style="color: orange;">Daniel Saatchi</strong>, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh, 
+        <strong style="font-style: italic;">"Artificial Intelligence in Metamaterial Informatics for Sonic Frequency Mechanical Identification Tags”</strong>, 
+            Advanced Functional Materials, 202414760, Opensource algorithms, 2019-2024 Data Contribution, 
+            <a href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202414670&file=adfm202414670-sup-0001-SuppMat.docx  " target="_blank">https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202414670&file=adfm202414670-sup-0001-SuppMat.docx  </a>
+                </strong>, AI/MI/data/codes for SFID/EMIT on GitHub:<a href="https://github.com/danielsaatchi/EMIT" target="_blank">https://github.com/danielsaatchi/EMIT  </a> </li>
+        <li>(2024) Mannan Khan, Saewoong Oh, Wonhee Ji, Tae-Eung Song, Manmatha Mahato, <strong style="color: orange;">Daniel Saatchi</strong>, Jaewoo Roh, Donghyeok Yun, Jee-Hwan Ryu, and Il-Kwon Oh, 
+            <strong style="font-style: italic;">"Wearable Haptics for Orthotropic Actuation based on Perpendicularly Nested Auxetic SMA Knotting”</strong>, 
+                Advanced Materials, 
+                <a href="https://doi.org/10.1002/adma.202411353  " target="_blank">https://doi.org/10.1002/adma.202411353  </a> </li>
     </ul>
 
   </div>
