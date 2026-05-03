@@ -1,5 +1,33 @@
 <head>
   <title>Think</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+
+    header {
+      background-color: #f0f0f0;
+      padding: 20px;
+      text-align: center;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -12,6 +40,6 @@
   </main>
 
   <footer>
-    <p>Copyright 2023</p>
+    <p>© 2023 Your Name</p>
   </footer>
 </body>
