@@ -29,7 +29,7 @@
     }
   </style>
 </head>
-<body >
+<body>
   <header>
     <h1>ONSOFA.ai</h1>
   </header>
@@ -47,29 +47,23 @@
       <li>Neuromorphic Brain Interface Metamaterials</li>
       <li>Sonic Intelligence and Transponder AI Systems</li>
       <li>Mechanical Intelligence & Mechanical Computers</li>
-
     </ul>
   </main>
-    
   <div class="Facilities">
     <h2>Facilities:</h2>
     <p>NVIDIA GPUs for Inhouse Local LLMs, Brain Interface Wizards, Electronic Musical Instruments, Music Studios</p>
   </div>
-
   <div class="Fundings">
     <h2>Fundings:</h2>
     <p>Private Equity, BTC/ETH Reserve, Forex P&L</p>
   </div>
-
   <div class="principal-investigator">
     <h2>Principal Investigator:</h2>
     <p>Daniel Saatchi (PhD)</p>
-    <p><a href="https://x.com/danielsaatchi" target="aatchi</p>_blank">X/Twitter</a> @danielsaatchi</p>
-    <p><a href="https://scholar.google.com/citations?user=Uv7KQxEAAAAJ&hl=en" target="aatchi</p>_blank">Google Scholar</a></p>
-    <p><a href="https://github.com/danielsaatchi/" target="aatchi</p>_blank">GitHub</a></p>
-
+    <p><a href="https://x.com/danielsaatchi" target="_blank">X/Twitter</a> @danielsaatchi</p>
+    <p><a href="https://scholar.google.com/citations?user=Uv7KQxEAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+    <p><a href="https://github.com/danielsaatchi/" target="_blank">GitHub</a></p>
   </div>
-
   <div class="education">
     <h2>Education:</h2>
     <ul>
@@ -78,8 +72,18 @@
       <li>Marie Skłodowska-Curie Actions (MSCA)</li>
     </ul>
   </div>
+  <div class="Publications">
+    <h2>Publications:</h2>
+    <ul>  
+       <li>(2025)  <strong style="color: blue;">Daniel Saatchi</strong>, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh, 
+        <strong style="font-style: italic;">"Artificial Intelligence in Metamaterial Informatics for Sonic Frequency Mechanical Identification Tags”</strong>, 
+            Advanced Functional Materials, AI-discovery, SFID AI-chip Invention, 
+            <a href="https://doi.org/10.1002/adfm.202414670" target="_blank">https://doi.org/10.1002/adfm.202414670</a>
+                </strong></li>
+    </ul>
 
+  </div>
   <footer>
-    <p>© 2026  DANIEL SAATCHI DESIGNS & TECHNOLOGIES (DSDT)</p>
+    <p>© 2026 DANIEL SAATCHI DESIGNS & TECHNOLOGIES (DSDT)</p>
   </footer>
 </body>
