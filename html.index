@@ -17,6 +17,10 @@
       font-size: 24px;
       margin-bottom: 20px;
     }
+    h2 {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
     footer {
       background-color: #333;
       color: white;
@@ -31,17 +35,47 @@
   </header>
   <main>
     <p>ONSOFA Studio [4] Artificial Intelligence</p>
-    <p>Explore New AI Developments</p>
-
+    <p>Working on New AI Developments with Different Lens</p>
     <h2>Research Areas</h2>
     <ul>
       <li>Artificial Intelligence</li>
+      <li>NLP & LLM Developments</li>
       <li>AI Systems Designs and AI Agents</li>
       <li>AI in Financial Engineering</li>
       <li>AI Ethics</li>
+      <li>AI-Chips and Metamaterials Informatics</li>
+      <li>Neuromorphic Brain Interface Metamaterials</li>
+      <li>Sonic Intelligence and Transponder AI Systems</li>
+      <li>Mechanical Intelligence & Mechanical Computers</li>
+
     </ul>
   </main>
+    
+  <div class="Facilities">
+    <h2>Facilities:</h2>
+    <p>NVIDIA GPUs for Inhouse Local LLMs, Brain Interface Wizards, Electronic Musical Instruments</p>
+  </div>
+
+  <div class="Fundings">
+    <h2>Fundings:</h2>
+    <p>Private Equity, BTC/ETH Reserve, Forex P&L</p>
+  </div>
+
+  <div class="principal-investigator">
+    <h2>Principal Investigator:</h2>
+    <p>Daniel Saatchi (PhD)</p>
+  </div>
+
+  <div class="education">
+    <h2>Education:</h2>
+    <ul>
+      <li>Korea Advanced Institute of Science and Technology (KAIST)</li>
+      <li>University of Oxford</li>
+      <li>Marie Skłodowska-Curie Actions (MSCA)</li>
+    </ul>
+  </div>
+
   <footer>
-    <p>© 2026 DANIEL SAATCHI DESIGNS AND TECHNOLOGIES (DSDT)</p>
+    <p>© 2026  DANIEL SAATCHI DESIGNS & TECHNOLOGIES (DSDT)</p>
   </footer>
 </body>
