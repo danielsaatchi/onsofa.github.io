@@ -1,5 +1,5 @@
 # ONSOFA.ai
-ONSOFA.ai under construction!
+ONSOFA Studio [4] Artificial General Intelligence
 
 This repository contains a very small, static website that demonstrates how to host a multi‑page site on GitHub Pages using plain HTML/CSS.
 
