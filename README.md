@@ -9,7 +9,7 @@ This repository contains a very small, static website that demonstrates how to h
 - **Products** – Commercial offerings
 - **Contact Us** – How to reach us
 
-## How to Deploy
+## How to Deploy a Website
 
 1. Fork or clone this repo.
 2. Push the branch to GitHub (default `main`).
