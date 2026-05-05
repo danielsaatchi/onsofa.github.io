@@ -7,6 +7,7 @@ This repository contains a very small, static website that demonstrates how to h
 - **Projects** – Current and past research projects
 - **Publications** – Key papers
 - **Products** – Commercial offerings
+- **Collaborations** – Collaborations
 - **Contact Us** – How to reach us
 
 ## How to Deploy
