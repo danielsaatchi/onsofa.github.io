@@ -19,6 +19,6 @@ This repository contains a very small, static website that demonstrates how to h
 
 Happy hacking! 🚀
 
-## How to Deploy (GPT-dynamic theme)
+## How to Deploy (dynamic GPT theme)
 will be updated
 
