@@ -18,11 +18,12 @@ This repository contains a very small, static website that demonstrates how to h
 4. Afterthat, this site will be live at `https://danielsaatchi.github.io/onsofa/`.
 
 ## How to Deploy (dynamic-GPT theme)
-0. Set the root based on folder (e.g. onsofa-stati-theme)
+0. Set the root based on folder (e.g. onsofa-dynamic-GPT-theme)
 1. Fork or clone this repo.
 2. Push the branch to GitHub (default `main`).
 3. In Settings → Pages → Source, select `main` → `/ (root)`.
 4. Afterthat, this site will be live at `https://danielsaatchi.github.io/onsofa/`.
+
 
 
 Happy hacking! 🚀
