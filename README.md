@@ -23,5 +23,5 @@ This repository contains a very small, static website that demonstrates how to h
 2. Push the branch to GitHub (default `main`).
 3. In Settings → Pages → Source, select `main` → `/ (root)`.
 4. Afterthat, this site will be live at `https://danielsaatchi.github.io/onsofa/`.
-5. 
+
 Happy hacking! 🚀
