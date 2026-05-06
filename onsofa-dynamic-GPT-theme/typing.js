@@ -1,4 +1,4 @@
-// typing.jss
+// typing.js
 document.addEventListener("DOMContentLoaded", () => {
   const typingSpeed = 30; // ms per character
   const baseDelay = 0;    // you can offset all lines if you want
