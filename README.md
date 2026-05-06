@@ -10,11 +10,14 @@ This repository contains a very small, static website that demonstrates how to h
 - **Collaborations** – Collaborations
 - **Contact Us** – How to reach us
 
-## How to Deploy
+## How to Deploy (minimal static theme)
 
 1. Fork or clone this repo.
 2. Push the branch to GitHub (default `main`).
 3. In Settings → Pages → Source, select `main` → `/ (root)`.
 4. Afterthat, this site will be live at `https://danielsaatchi.github.io/onsofa/`.
+
+## How to Deploy (minimal dynamic theme)
+will be updated
 
 Happy hacking! 🚀
