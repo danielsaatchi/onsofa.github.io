@@ -1,0 +1,75 @@
+/* -------------  Font ------------- */
+@font-face {
+    font-family: 'Cascadia Code';
+    src: url('https://cdn.jsdelivr.net/gh/tonsky/cascadia-code@1.10.1/CascadiaCode-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* -------------  Global ------------- */
+:root {
+    --yellow:    #ffcc00;
+    --black:     #000;
+    --dark:      #333;
+
+    /* Default link colour for *every* anchor except nav */
+    --link-blue: #007bff;   /* classic bootstrap‑style blue */
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Cascadia Code', monospace;
+    margin: 0;
+    background: #fff;
+    color: var(--black);
+    line-height: 1.6;
+}
+
+/* --- Global link style (everything but the menu) --- */
+a {
+    color: var(--link-blue);   /* blue for normal page links */
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* -------------  Layout ------------- */
+header,
+footer {
+    background: var(--yellow);
+    color: var(--black);
+    padding: 1rem;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+/* --- Keep navigation links black --- */
+nav a {
+    font-weight: bold;
+    color: var(--black);   /* override the global blue */
+}
+main {
+    padding: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+h1, h2, h3 {
+    margin-top: 0;
+}
+
+/* -------------  Footer ------------- */
+footer {
+    background: var(--dark);
+    color: #fff;
+    font-size: 0.9rem;
+}
