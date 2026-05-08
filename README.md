@@ -3,17 +3,22 @@ ONSOFA Studio [4] Artificial General Intelligence
 
 This repository contains a very small, static website that demonstrates how to host a multi‑page site on GitHub Pages using plain HTML/CSS and minimal JavaScript.
 
+## Repository layout
+
+```
+onsofa/docs
 your-repo/
-├── index.html                 Home page (main page)
-├── projects.html              Projects page
-├── publications.html          Publications page
-├── products.html               Products page
-├── contact.html                Contact-us page
-├── style.css                   All CSS rules
-├── README.md                   Optional – you can keep it if you want
-├── .gitignore                  Standard Git ignore file
+├── index.html                 # Home page (main page)
+├── projects.html              # Projects page
+├── publications.html          # Publications page
+├── products.html              # Products page
+├── contact.html               # Contact-us page
+├── style.css                  # All CSS rules
+├── README.md                  # Optional – you can keep it if you want
+├── .gitignore                 # Standard Git ignore file
 └── fonts/
-    └── CascadiaCode-Regular.woff2    Optional – see notes below
+    └── CascadiaCode-Regular.woff2   # Optional – see notes below
+```
 
 
 ## How to Deploy (minimal static theme)
