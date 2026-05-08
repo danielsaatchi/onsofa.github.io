@@ -18,7 +18,7 @@ onsofa/docs/
 ├── README.md                  # Instruction
 └── fonts/
     └── CascadiaCode-Regular.woff2   # Optional – if not from URL (check .css file)
-'''
+```
 
 ## How to Deploy (minimal static theme)
 0. Set the root/docs based on folder (e.g. onsofa-stati-theme)
