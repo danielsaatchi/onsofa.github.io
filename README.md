@@ -6,20 +6,18 @@ This repository contains a very small, static website that demonstrates how to h
 ## Repository layout
 
 ```
-onsofa/docs
-your-repo/
+onsofa/docs/
 ├── index.html                 # Home page (main page)
 ├── projects.html              # Projects page
 ├── publications.html          # Publications page
 ├── products.html              # Products page
 ├── contact.html               # Contact-us page
 ├── style.css                  # All CSS rules
-├── README.md                  # Optional – you can keep it if you want
-├── .gitignore                 # Standard Git ignore file
+├── typing.js                  # Typing animation logic
+├── style.css                  # All CSS rules
+├── README.md                  # Instruction
 └── fonts/
-    └── CascadiaCode-Regular.woff2   # Optional – see notes below
-```
-
+    └── CascadiaCode-Regular.woff2   # Optional – if not from URL (check .css file)
 
 ## How to Deploy (minimal static theme)
 0. Set the root/docs based on folder (e.g. onsofa-stati-theme)
