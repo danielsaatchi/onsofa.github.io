@@ -16,6 +16,7 @@ onsofa/docs/
 ├── typing.js                  # Typing animation logic
 ├── style.css                  # All CSS rules
 ├── README.md                  # Instruction
+├── CODE_OF_CONDUCT.md         # Opensource note
 └── fonts/
     └── CascadiaCode-Regular.woff2   # Optional – if not from URL (check .css file)
 ```
