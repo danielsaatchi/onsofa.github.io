@@ -1,4 +1,4 @@
-This project has enlisted as [🛋️ONSOFA Open Source Code of Conduct][onsofa-github].
+This theme is created and this project has enlisted as [🛋️ONSOFA Open Source Code of Conduct][onsofa-github].
 
 For more information contact [🛋️ONSOFA.ai][onsofa-ai] with any additional questions or comments.
 
